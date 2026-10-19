@@ -1,8 +1,7 @@
-tensorflow
-pandas
-numpy
-scikit-learn
-tensorboard
-matplotlib
+
 streamlit
-ipykernal
+numpy
+pandas
+scikit-learn
+tensorflow
+h5py
